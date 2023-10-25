@@ -1,5 +1,5 @@
 ## LoRA Group Discussion
-The work done here was initially presented for Masters Group discussion. This repo will get continuously updated in the subject matter of LoRA as dive into it more.
+The work done here was initially presented for NLP Masters Group discussion. This repo will get continuously updated in the subject matter of LoRA as dive into it more.
 
 ## Slides and codes used during presentation 
 
